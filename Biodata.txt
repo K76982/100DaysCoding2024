@@ -1,0 +1,4 @@
+nama : Aydil
+Nim : D0224028
+Kelas : Informatika C
+Angkatan : 2024
